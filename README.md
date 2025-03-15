@@ -123,4 +123,4 @@ This code is provided under the MIT License.
 
 ## Acknowledgments
 
-This implementation is based on the OpenAI Gym Mountain Car environment and builds upon reinforcement learning principles from Sutton and Barto's "Reinforcement Learning: An Introduction."
+This material is based upon work supported by the National Science Foundation under Award No. OIA-1946391.
