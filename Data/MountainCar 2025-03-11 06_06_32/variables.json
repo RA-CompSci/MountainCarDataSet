@@ -1,0 +1,1 @@
+[{"SEEDS": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19], "n_episodes": 5000, "learning_coeff": 1, "learning_decay": 0.25, "exploration_coeff": 0.02, "exploration_decay": 0.0, "min_learn": 0.003, "min_explore": 0.0, "discount": 1.0, "capture_eps": [0, 250, 500, 750], "reward_update_interval": 5001, "export_fps": 30}]
