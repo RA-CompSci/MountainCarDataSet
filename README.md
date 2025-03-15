@@ -1,4 +1,4 @@
-# Mountain Car Q-Learning Experiment
+# Mountain Car Reinforcement Learning with Topology Data Analysis
 
 This repository contains a Q-learning implementation for the classic Mountain Car reinforcement learning problem from OpenAI Gym. The agent learns to drive an underpowered car up a steep hill by building momentum through oscillations in the valley.
 
