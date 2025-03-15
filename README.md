@@ -4,7 +4,7 @@ This repository contains a Q-learning implementation for the classic Mountain Ca
 
 ## Overview
 
-The **Mountain** Car problem is a classic reinforcement learning task where an underpowered car must drive up a steep hill. Since the car's engine is not strong enough to climb the hill directly, the agent must learn to drive back and forth to build up momentum.
+The **Mountain Car** problem is a classic reinforcement learning task where an underpowered car must drive up a steep hill. Since the car's engine is not strong enough to climb the hill directly, the agent must learn to drive back and forth to build up momentum.
 
 This implementation uses:
 - Q-learning with discretized state space
